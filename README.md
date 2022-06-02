@@ -55,9 +55,9 @@ __Тext__
 
 *Text*
 
-[Text](https//:google.com)
+<!-- [Text](https//:google.com)
 
-![ ](https//:google.com)
+![ ](https//:google.com) -->
 
 #### Заголовок 4_го уровня
 
@@ -95,8 +95,8 @@ Text
       * Вложенный список 1.2.1
       * Вложенный список 1.2.2
 
-[Text][^1]
-[^1]:https://gogle.com
+<!-- [Text][^1]
+[^1]:https://gogle.com -->
 ###### ~~Заголовок 6_го уровня~~
 
 Текст
